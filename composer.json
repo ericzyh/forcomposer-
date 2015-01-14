@@ -1,0 +1,24 @@
+{
+    "name": "ericzyh/testforcomposer-",
+    "type": "library",
+    "description": "forcomposer-",
+    "keywords": ["test"],
+    "homepage": "http://github.com/ericzyh/forcomposer-",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ericzyh",
+            "email": "8040334@qq.com",
+            "homepage": "http://zhaoyuhao.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "testforcomposer": "src"
+        }
+    }
+}
